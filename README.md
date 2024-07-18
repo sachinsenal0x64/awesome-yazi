@@ -1,5 +1,5 @@
 # 🪿 awsome-yazi
-Awesome lists about yazi file manager
+Awesome lists about Yazi file manager
 
 ## Contents
 
@@ -10,4 +10,15 @@ Awesome lists about yazi file manager
 
 <br>
 
+
+## Themes
+
+
+<br>
+
 ## Plugins
+
+
+<br>
+
+## Misc
