@@ -6,3 +6,8 @@ Awesome lists about yazi file manager
 - [Plugins](#plugins)
 - [Themes](#themes)
 - [Misc](#misc)
+
+
+<br>
+
+## Plugins
