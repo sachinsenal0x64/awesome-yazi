@@ -21,9 +21,10 @@ Awesome lists about Yazi file manager
 - [catppuccin-macchiato](https://github.com/yazi-rs/flavors/tree/main/catppuccin-macchiato.yazi)
 - [flexoki](https://github.com/Reledia/flexoki.yazi)
 - [gruvbox-dark](https://github.com/poperigby/gruvbox-dark-yazi)
+- [icons-brew](https://github.com/lpnh/icons-brew.yazi) -  Make a hot `theme.toml` for your Yazi icons with your favorite color palette
 - [ls-colors](https://github.com/Mellbourn/ls-colors.yazi)
 - [onedark](https://github.com/BennyOe/onedark.yazi)
-- [rose-pine](https://github.com/Msouza91/rose-pine.yazi)
+- [rose-pine](https://github.com/Msouza91/rose-pine.yazi) 
 
 <br>
 
