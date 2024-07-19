@@ -72,4 +72,4 @@ Awesome lists about [Yazi](https://github.com/sxyazi/yazi) file manager
 
 ## Dotfiles
 
-- [sachinsenal0x64/dotfiles](https://github.com/sachinsenal0x64/dotfiles/tree/qtile/yazi)
+- [sachinsenal0x64/dotfiles](https://github.com/sachinsenal0x64/dotfiles/tree/qtile/yazi) Minimal Yazi dotfiles
