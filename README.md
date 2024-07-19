@@ -52,8 +52,10 @@ Awesome lists about [Yazi](https://github.com/sxyazi/yazi) file manager
 
 - [A Better Terminal File Manager](https://youtu.be/l44HjrTQHGc)
 - [A quick look at Yazi file manager ](https://youtu.be/cUwu3mkrz_k)
+- [Termfilechooser](https://github.com/boydaihungst/xdg-desktop-portal-termfilechooser) - Set Yazi as the default file picker.
 - [Why is Yazi Fast?](https://github.com/sxyazi/yazi/issues/143)
 - [What the hell is Yazi ??](https://youtu.be/cUwu3mkrz_k)
 - [Yazi, the terminal file manager you didn't know you needed (why I switched from LF)](https://youtu.be/cUwu3mkrz_k)
 - [Yazi Blog](https://yazi-rs.github.io/blog)
 - [Yazi Docs](https://yazi-rs.github.io/)
+
