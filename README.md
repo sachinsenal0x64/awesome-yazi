@@ -1,5 +1,5 @@
 # 🪿 awsome-yazi
-Awesome lists about [Yazi](https://github.com/sxyazi/yazi) file manager
+Awesome lists about [Yazi](https://github.com/sxyazi/yazi) file manager.
 
 ## Contents
 
@@ -22,7 +22,7 @@ Awesome lists about [Yazi](https://github.com/sxyazi/yazi) file manager
 
 ## Themes
 
-- [crystal](https://github.com/sachinsenal0x64/crystal.yazi) - Minimal Comfy Theme
+- [crystal](https://github.com/sachinsenal0x64/crystal.yazi) - Minimal Comfy Theme.
 - [catppuccin](https://github.com/catppuccin/yazi)
 - [catppuccin-mocha](https://github.com/yazi-rs/flavors/tree/main/catppuccin-mocha.yazi)
 - [catppuccin-latte](https://github.com/yazi-rs/flavors/tree/main/catppuccin-latte.yazi)
@@ -30,7 +30,7 @@ Awesome lists about [Yazi](https://github.com/sxyazi/yazi) file manager
 - [catppuccin-macchiato](https://github.com/yazi-rs/flavors/tree/main/catppuccin-macchiato.yazi)
 - [flexoki](https://github.com/Reledia/flexoki.yazi)
 - [gruvbox-dark](https://github.com/poperigby/gruvbox-dark-yazi)
-- [icons-brew](https://github.com/lpnh/icons-brew.yazi) -  Make a hot `theme.toml` for your Yazi icons with your favorite color palette
+- [icons-brew](https://github.com/lpnh/icons-brew.yazi) -  Make a hot `theme.toml` for your Yazi icons with your favorite color palette.
 - [ls-colors](https://github.com/Mellbourn/ls-colors.yazi)
 - [onedark](https://github.com/BennyOe/onedark.yazi)
 - [rose-pine](https://github.com/Msouza91/rose-pine.yazi) 
@@ -39,9 +39,11 @@ Awesome lists about [Yazi](https://github.com/sxyazi/yazi) file manager
 
 ## Plugins
 
-- [archivemount](https://github.com/AnirudhG07/archivemount.yazi)
+- [archivemount](https://github.com/AnirudhG07/archivemount.yazi) - Mounting and unmounting archives in yazi.
+- [allmytoes](https://github.com/Sonico98/allmytoes.yazi) - Generate freedesktop-compatible thumbnails while using yazi.
 - [bookmarks](https://gitee.com/DreamMaoMao/bookmarks.yazi) - A Yazi plugin that Supports persistent bookmark management.No bookmarks are lost after you close yazi.
 - [easyjump](https://gitee.com/DreamMaoMao/easyjump.yazi) - The hardcover version of the keyjump.yazi plugin(only has normal mode).
+- [fg](https://gitee.com/DreamMaoMao/fg.yazi) - Yazi plugin for ripgrep search with fzf file preview.
 - [git-status](https://gitee.com/DreamMaoMao/git-status.yazi) - Git message prompt plugin for Yazi.
 - [searchjump](https://gitee.com/DreamMaoMao/searchjump.yazi) - A Yazi plugin which the behavior consistent with flash.nvim in Neovim, allow search str to generate lable to jump.support chinese pinyin search,regular expression search.
 - [keyjump](https://gitee.com/DreamMaoMao/keyjump.yazi) - A Yazi plugin that allows jumping to a line by typing a hint character, much like hop.nvim.
@@ -70,6 +72,7 @@ Awesome lists about [Yazi](https://github.com/sxyazi/yazi) file manager
 <br>
 
 
+
 ## Dotfiles
 
-- [sachinsenal0x64/dotfiles](https://github.com/sachinsenal0x64/dotfiles/tree/qtile/yazi) Minimal Yazi dotfiles
+- [sachinsenal0x64/dotfiles](https://github.com/sachinsenal0x64/dotfiles/tree/qtile/yazi) Minimal Yazi dotfiles.
