@@ -14,6 +14,7 @@ Awesome lists about [Yazi](https://github.com/sxyazi/yazi) file manager
 ## Communities
 
 - [Discord](https://discord.gg/RbPtPcVM5X)
+- [Telegram (Chinese mainly)](https://t.me/yazi_rs)
 - [Github Discussions](https://github.com/sxyazi/yazi/discussions)
 
   
@@ -70,3 +71,5 @@ Awesome lists about [Yazi](https://github.com/sxyazi/yazi) file manager
 
 
 ## Dotfiles
+
+- [sachinsenal0x64/dotfiles](https://github.com/sachinsenal0x64/dotfiles/tree/qtile/yazi)
