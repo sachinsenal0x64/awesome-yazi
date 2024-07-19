@@ -7,21 +7,21 @@ Awesome lists about [Yazi](https://github.com/sxyazi/yazi) file manager
 - [Themes](#themes)
 - [Plugins](#plugins)
 - [Misc](#misc)
-
-
+- [Dotfiles](#dotfiles)
 
 <br>
-
 
 ## Communities
 
 - [Discord](https://discord.gg/RbPtPcVM5X)
 - [Github Discussions](https://github.com/sxyazi/yazi/discussions)
 
+  
+<br>
 
 ## Themes
 
-- [crystal](https://github.com/sachinsenal0x64/crystal.yazi) - Minimal Comfy Theme & Prebuilt Configs.
+- [crystal](https://github.com/sachinsenal0x64/crystal.yazi) - Minimal Comfy Theme
 - [catppuccin](https://github.com/catppuccin/yazi)
 - [catppuccin-mocha](https://github.com/yazi-rs/flavors/tree/main/catppuccin-mocha.yazi)
 - [catppuccin-latte](https://github.com/yazi-rs/flavors/tree/main/catppuccin-latte.yazi)
@@ -45,6 +45,7 @@ Awesome lists about [Yazi](https://github.com/sxyazi/yazi) file manager
 - [searchjump](https://gitee.com/DreamMaoMao/searchjump.yazi) - A Yazi plugin which the behavior consistent with flash.nvim in Neovim, allow search str to generate lable to jump.support chinese pinyin search,regular expression search.
 - [keyjump](https://gitee.com/DreamMaoMao/keyjump.yazi) - A Yazi plugin that allows jumping to a line by typing a hint character, much like hop.nvim.
 - [mime](https://gitee.com/DreamMaoMao/mime.yazi) - A Yazi plugin that quickly get file mime-type by filename suffix to improved theme rendering speed.
+- [nbpreview](https://github.com/AnirudhG07/nbpreview.yazi) - View your Jupyter notebooks beautifully in the preview.
 - [ouch](https://github.com/ndtoan96/ouch.yazi) -  A Yazi plugin to preview / archives / compress / decompress. 
 - [yaziline](https://github.com/llanosrocas/yaziline.yazi) - Simple lualine-like status line for yazi.
   
@@ -63,3 +64,9 @@ Awesome lists about [Yazi](https://github.com/sxyazi/yazi) file manager
 - [Yazi Blog](https://yazi-rs.github.io/blog)
 - [Yazi Docs](https://yazi-rs.github.io/)
 - [Yazi Nvim](https://github.com/mikavilpas/yazi.nvim) - A Neovim Plugin for the yazi terminal file manager.
+
+
+<br>
+
+
+## Dotfiles
