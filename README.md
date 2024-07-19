@@ -21,7 +21,7 @@ Awesome lists about [Yazi](https://github.com/sxyazi/yazi) file manager
 
 ## Themes
 
-- [crystal](https://github.com/sachinsenal0x64/crystal.yazi) - Minimal Comfy Theme.
+- [crystal](https://github.com/sachinsenal0x64/crystal.yazi) - Minimal Comfy Theme & Prebuilt Configs.
 - [catppuccin](https://github.com/catppuccin/yazi)
 - [catppuccin-mocha](https://github.com/yazi-rs/flavors/tree/main/catppuccin-mocha.yazi)
 - [catppuccin-latte](https://github.com/yazi-rs/flavors/tree/main/catppuccin-latte.yazi)
@@ -38,12 +38,16 @@ Awesome lists about [Yazi](https://github.com/sxyazi/yazi) file manager
 
 ## Plugins
 
+- [archivemount](https://github.com/AnirudhG07/archivemount.yazi)
 - [bookmarks](https://gitee.com/DreamMaoMao/bookmarks.yazi) - A Yazi plugin that Supports persistent bookmark management.No bookmarks are lost after you close yazi.
 - [easyjump](https://gitee.com/DreamMaoMao/easyjump.yazi) - The hardcover version of the keyjump.yazi plugin(only has normal mode).
 - [git-status](https://gitee.com/DreamMaoMao/git-status.yazi) - Git message prompt plugin for Yazi.
 - [searchjump](https://gitee.com/DreamMaoMao/searchjump.yazi) - A Yazi plugin which the behavior consistent with flash.nvim in Neovim, allow search str to generate lable to jump.support chinese pinyin search,regular expression search.
 - [keyjump](https://gitee.com/DreamMaoMao/keyjump.yazi) - A Yazi plugin that allows jumping to a line by typing a hint character, much like hop.nvim.
 - [mime](https://gitee.com/DreamMaoMao/mime.yazi) - A Yazi plugin that quickly get file mime-type by filename suffix to improved theme rendering speed.
+- [ouch](https://github.com/ndtoan96/ouch.yazi) -  A Yazi plugin to preview / archives / compress / decompress. 
+- [yaziline](https://github.com/llanosrocas/yaziline.yazi) - Simple lualine-like status line for yazi.
+  
   
 
 <br>
@@ -58,4 +62,4 @@ Awesome lists about [Yazi](https://github.com/sxyazi/yazi) file manager
 - [Yazi, the terminal file manager you didn't know you needed (why I switched from LF)](https://youtu.be/cUwu3mkrz_k)
 - [Yazi Blog](https://yazi-rs.github.io/blog)
 - [Yazi Docs](https://yazi-rs.github.io/)
-
+- [Yazi Nvim](https://github.com/mikavilpas/yazi.nvim) - A Neovim Plugin for the yazi terminal file manager.
