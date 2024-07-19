@@ -14,7 +14,7 @@ Awesome lists about [Yazi](https://github.com/sxyazi/yazi) file manager.
 ## Communities
 
 - [Discord](https://discord.gg/RbPtPcVM5X)
-- [Telegram (Chinese mainly)](https://t.me/yazi_rs)
+- [Telegram](https://t.me/yazi_rs) - Chinese mainly.
 - [Github Discussions](https://github.com/sxyazi/yazi/discussions)
 
   
