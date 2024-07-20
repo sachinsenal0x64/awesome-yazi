@@ -44,16 +44,27 @@
 ## Plugins
 
 - [archivemount](https://github.com/AnirudhG07/archivemount.yazi) - Mounting and unmounting archives in yazi.
+- 
 - [allmytoes](https://github.com/Sonico98/allmytoes.yazi) - Generate freedesktop-compatible thumbnails while using yazi.
+- 
 - [bookmarks](https://gitee.com/DreamMaoMao/bookmarks.yazi) - A Yazi plugin that Supports persistent bookmark management.No bookmarks are lost after you close yazi.
+- 
 - [easyjump](https://gitee.com/DreamMaoMao/easyjump.yazi) - The hardcover version of the keyjump.yazi plugin(only has normal mode).
+- 
 - [fg](https://gitee.com/DreamMaoMao/fg.yazi) - Yazi plugin for ripgrep search with fzf file preview.
+- 
 - [git-status](https://gitee.com/DreamMaoMao/git-status.yazi) - Git message prompt plugin for Yazi.
+- 
 - [searchjump](https://gitee.com/DreamMaoMao/searchjump.yazi) - A Yazi plugin which the behavior consistent with flash.nvim in Neovim, allow search str to generate lable to jump.support chinese pinyin search,regular expression search.
+- 
 - [keyjump](https://gitee.com/DreamMaoMao/keyjump.yazi) - A Yazi plugin that allows jumping to a line by typing a hint character, much like hop.nvim.
+- 
 - [mime](https://gitee.com/DreamMaoMao/mime.yazi) - A Yazi plugin that quickly get file mime-type by filename suffix to improved theme rendering speed.
+- 
 - [nbpreview](https://github.com/AnirudhG07/nbpreview.yazi) - View your Jupyter notebooks beautifully in the preview.
-- [ouch](https://github.com/ndtoan96/ouch.yazi) -  A Yazi plugin to preview / archives / compress / decompress. 
+- 
+- [ouch](https://github.com/ndtoan96/ouch.yazi) -  A Yazi plugin to preview / archives / compress / decompress.
+- 
 - [yaziline](https://github.com/llanosrocas/yaziline.yazi) - Simple lualine-like status line for yazi.
   
   
