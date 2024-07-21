@@ -63,7 +63,9 @@
 - [allmytoes](https://github.com/Sonico98/allmytoes.yazi) - Generate freedesktop-compatible thumbnails while using yazi.
 - [bookmarks](https://gitee.com/DreamMaoMao/bookmarks.yazi) - A Yazi plugin that Supports persistent bookmark management.No bookmarks are lost after you close yazi.
 - [easyjump](https://gitee.com/DreamMaoMao/easyjump.yazi) - The hardcover version of the keyjump.yazi plugin(only has normal mode).
+- [command](https://github.com/KKV9/command.yazi) -  A Yazi plugin that displays a command prompt for yazi commands. 
 - [fg](https://gitee.com/DreamMaoMao/fg.yazi) - Yazi plugin for ripgrep search with fzf file preview.
+- [fish](https://github.com/AnirudhG07/fish.yazi) - Run Fish <°))>< shell as your default yazi shell. 
 - [git-status](https://gitee.com/DreamMaoMao/git-status.yazi) - Git message prompt plugin for Yazi.
 - [githead](https://github.com/llanosrocas/githead.yazi) -  Git status header for yazi inspired by powerlevel10k.
 - [glow](https://github.com/Reledia/glow.yazi) - Preview markdown files using [glow](https://github.com/charmbracelet/glow).
