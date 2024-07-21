@@ -10,8 +10,8 @@
 - [Communities](#communities)
 - [Themes](#themes)
 - [Plugins](#plugins)
-- [Misc](#misc)
 - [Dotfiles](#dotfiles)
+- [Misc](#misc)
 
 <br>
 
@@ -41,6 +41,9 @@
 
 <br>
 
+
+> The following plugins can be installed using the ya pack package manager - it's part of the upcoming Yazi v0.3 (currently available on the latest main branch).
+
 ## Plugins
 
 - [archivemount](https://github.com/AnirudhG07/archivemount.yazi) - Mounting and unmounting archives in yazi.
@@ -58,6 +61,12 @@
 - [yaziline](https://github.com/llanosrocas/yaziline.yazi) - Simple lualine-like status line for yazi.
 - [yatline](https://github.com/imsi32/yatline.yazi) -  The first Yazi plugin for customizing both header-line and status-line.
   
+
+<br>
+
+## Dotfiles
+
+- [sachinsenal0x64/dotfiles](https://github.com/sachinsenal0x64/dotfiles/tree/qtile/yazi) Minimal Yazi dotfiles.
   
 
 <br>
@@ -74,11 +83,3 @@
 - [Yazi Docs](https://yazi-rs.github.io/)
 - [Yazi Nvim](https://github.com/mikavilpas/yazi.nvim) - A Neovim Plugin for the yazi terminal file manager.
 
-
-<br>
-
-
-
-## Dotfiles
-
-- [sachinsenal0x64/dotfiles](https://github.com/sachinsenal0x64/dotfiles/tree/qtile/yazi) Minimal Yazi dotfiles.
