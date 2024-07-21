@@ -1,6 +1,6 @@
 <div align="left">
   
-  # <a title="Yazi" target="_blank" href="https://github.com/sxyazi/yazi"><img src="https://sachinsenal0x64.github.io/picx-images-hosting/logo.7p6nlfu5i.png" width="62" height="62" alt="Awesome Yazi"></a>  awesome-yazi
+  # <a title="Yazi" target="_blank" href="https://github.com/sxyazi/yazi"><img src="https://sachinsenal0x64.github.io/picx-images-hosting/logo.7p6nlfu5i.png" width="62" height="62" alt="Awesome Yazi Collection"></a>  awesome-yazi
   Awesome lists about [Yazi](https://github.com/sxyazi/yazi) file manager.
 
 </div>  
@@ -71,7 +71,8 @@
 - [allmytoes](https://github.com/Sonico98/allmytoes.yazi) - Generate freedesktop-compatible thumbnails while using yazi.
 - [bookmarks](https://gitee.com/DreamMaoMao/bookmarks.yazi) - A Yazi plugin that Supports persistent bookmark management.No bookmarks are lost after you close yazi.
 - [easyjump](https://gitee.com/DreamMaoMao/easyjump.yazi) - The hardcover version of the keyjump.yazi plugin(only has normal mode).
-- [command](https://github.com/KKV9/command.yazi) -  A Yazi plugin that displays a command prompt for yazi commands. 
+- [command](https://github.com/KKV9/command.yazi) -  A Yazi plugin that displays a command prompt for yazi commands.
+- [current-size](https://gitee.com/DreamMaoMao/current-size.yazi) - Show current folder size plugin for Yazi.
 - [fg](https://gitee.com/DreamMaoMao/fg.yazi) - Yazi plugin for ripgrep search with fzf file preview.
 - [fish](https://github.com/AnirudhG07/fish.yazi) - Run Fish <°))>< shell as your default yazi shell. 
 - [git-status](https://gitee.com/DreamMaoMao/git-status.yazi) - Git message prompt plugin for Yazi.
