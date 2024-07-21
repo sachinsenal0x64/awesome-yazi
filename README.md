@@ -42,7 +42,7 @@
 <br>
 
 
-> The following plugins can be installed using the ya pack package manager - it's part of the upcoming Yazi v0.3 (currently available on the latest main branch).
+> The following plugins can be installed using the `ya pack` package manager - it's part of the upcoming Yazi v0.3 (currently available on the latest main branch).
 
 ## Plugins
 
