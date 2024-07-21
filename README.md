@@ -5,6 +5,11 @@
 </div>  
 
 
+- [Yazi Offical Repo](https://github.com/sxyazi/yazi)
+- [Yazi Offical Blog](https://yazi-rs.github.io/blog) 
+- [Yazi Offical Docs](https://yazi-rs.github.io/)
+  
+
 ## Contents
 
 - [Communities](#communities)
@@ -20,7 +25,6 @@
 - [Discord](https://discord.gg/RbPtPcVM5X)
 - [Telegram](https://t.me/yazi_rs) - Chinese mainly.
 - [Github Discussions](https://github.com/sxyazi/yazi/discussions)
-- 
 
 <br>
 
@@ -80,7 +84,5 @@
 - [Why is Yazi Fast?](https://github.com/sxyazi/yazi/issues/143)
 - [What the hell is Yazi ??](https://youtu.be/cUwu3mkrz_k)
 - [Yazi, the terminal file manager you didn't know you needed (why I switched from LF)](https://youtu.be/cUwu3mkrz_k)
-- [Yazi Offical Blog](https://yazi-rs.github.io/blog) 
-- [Yazi Offical Docs](https://yazi-rs.github.io/)
 - [Yazi Nvim](https://github.com/mikavilpas/yazi.nvim) - A Neovim Plugin for the yazi terminal file manager.
 
