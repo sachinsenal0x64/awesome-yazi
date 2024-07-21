@@ -2,8 +2,10 @@
   
   # <a title="Yazi" target="_blank" href="https://github.com/sxyazi/yazi"><img src="https://sachinsenal0x64.github.io/picx-images-hosting/logo.7p6nlfu5i.png" width="62" height="62" alt="Awesome Yazi"></a>  awesome-yazi
   Awesome lists about [Yazi](https://github.com/sxyazi/yazi) file manager.
+
 </div>  
 
+<br>
 
 - [Yazi Offical Repo](https://github.com/sxyazi/yazi)
 - [Yazi Offical Blog](https://yazi-rs.github.io/blog) 
