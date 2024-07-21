@@ -49,6 +49,7 @@
 - [easyjump](https://gitee.com/DreamMaoMao/easyjump.yazi) - The hardcover version of the keyjump.yazi plugin(only has normal mode).
 - [fg](https://gitee.com/DreamMaoMao/fg.yazi) - Yazi plugin for ripgrep search with fzf file preview.
 - [git-status](https://gitee.com/DreamMaoMao/git-status.yazi) - Git message prompt plugin for Yazi.
+- [githead](https://github.com/llanosrocas/githead.yazi) -  Git status header for yazi inspired by powerlevel10k.
 - [searchjump](https://gitee.com/DreamMaoMao/searchjump.yazi) - A Yazi plugin which the behavior consistent with flash.nvim in Neovim, allow search str to generate lable to jump.support chinese pinyin search,regular expression search.
 - [keyjump](https://gitee.com/DreamMaoMao/keyjump.yazi) - A Yazi plugin that allows jumping to a line by typing a hint character, much like hop.nvim.
 - [mime](https://gitee.com/DreamMaoMao/mime.yazi) - A Yazi plugin that quickly get file mime-type by filename suffix to improved theme rendering speed.
