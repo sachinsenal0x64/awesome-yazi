@@ -10,7 +10,7 @@
 - [Communities](#communities)
 - [Themes](#themes)
 - [Plugins](#plugins)
-- [Dotfiles](#dotfiles)
+- [Dotfiles](#dotfiles) - Premade Configs
 - [Misc](#misc)
 
 <br>
