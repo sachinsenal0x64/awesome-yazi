@@ -5,23 +5,31 @@
 
 </div>  
 
-<br>
-
-- [Yazi Offical Repo](https://github.com/sxyazi/yazi)
-- [Yazi Offical Blog](https://yazi-rs.github.io/blog) 
-- [Yazi Offical Docs](https://yazi-rs.github.io/)
 
 <br>
 
 ## Contents
 
+- [Official](#official)
 - [Communities](#communities)
 - [Dotfiles](#dotfiles) - Premade Configs.
 - [Themes](#themes)
 - [Plugins](#plugins)
 - [Misc](#misc)
 
+
+
 <br>
+
+## Official
+
+- [Yazi Offical Repo](https://github.com/sxyazi/yazi)
+- [Yazi Offical Blog](https://yazi-rs.github.io/blog) 
+- [Yazi Offical Docs](https://yazi-rs.github.io/)
+
+
+<br>
+
 
 ## Communities
 
