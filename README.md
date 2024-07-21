@@ -13,8 +13,8 @@
 - [Official](#official)
 - [Communities](#communities)
 - [Dotfiles](#dotfiles) - Premade Configs.
-- [Themes](#themes)
 - [Plugins](#plugins)
+- [Themes](#themes)
 - [Misc](#misc)
 
 
@@ -43,29 +43,14 @@
 
 - [sachinsenal0x64/dotfiles](https://github.com/sachinsenal0x64/dotfiles/tree/qtile/yazi) Minimal Yazi dotfiles.
 
-<br>
-
-## Themes
-
-- [crystal](https://github.com/sachinsenal0x64/crystal.yazi) - Minimal Comfy Theme.
-- [catppuccin](https://github.com/catppuccin/yazi)
-- [catppuccin-mocha](https://github.com/yazi-rs/flavors/tree/main/catppuccin-mocha.yazi)
-- [catppuccin-latte](https://github.com/yazi-rs/flavors/tree/main/catppuccin-latte.yazi)
-- [catppuccin-frappe](https://github.com/yazi-rs/flavors/blob/main/catppuccin-frappe.yazi)
-- [catppuccin-macchiato](https://github.com/yazi-rs/flavors/tree/main/catppuccin-macchiato.yazi)
-- [flexoki](https://github.com/Reledia/flexoki.yazi)
-- [gruvbox-dark](https://github.com/poperigby/gruvbox-dark-yazi)
-- [icons-brew](https://github.com/lpnh/icons-brew.yazi) -  Make a hot `theme.toml` for your Yazi icons with your favorite color palette.
-- [ls-colors](https://github.com/Mellbourn/ls-colors.yazi)
-- [onedark](https://github.com/BennyOe/onedark.yazi)
-- [rose-pine](https://github.com/Msouza91/rose-pine.yazi) 
 
 <br>
 
+## Plugins
 
 > The following plugins can be installed using the `ya pack` package manager - it's part of the upcoming Yazi v0.3 (currently available on the latest main branch).
 
-## Plugins
+<br>
 
 - [archivemount](https://github.com/AnirudhG07/archivemount.yazi) - Mounting and unmounting archives in yazi.
 - [allmytoes](https://github.com/Sonico98/allmytoes.yazi) - Generate freedesktop-compatible thumbnails while using yazi.
@@ -89,6 +74,23 @@
 
 <br>
 
+## Themes
+
+- [crystal](https://github.com/sachinsenal0x64/crystal.yazi) - Minimal Comfy Theme.
+- [catppuccin](https://github.com/catppuccin/yazi)
+- [catppuccin-mocha](https://github.com/yazi-rs/flavors/tree/main/catppuccin-mocha.yazi)
+- [catppuccin-latte](https://github.com/yazi-rs/flavors/tree/main/catppuccin-latte.yazi)
+- [catppuccin-frappe](https://github.com/yazi-rs/flavors/blob/main/catppuccin-frappe.yazi)
+- [catppuccin-macchiato](https://github.com/yazi-rs/flavors/tree/main/catppuccin-macchiato.yazi)
+- [flexoki](https://github.com/Reledia/flexoki.yazi)
+- [gruvbox-dark](https://github.com/poperigby/gruvbox-dark-yazi)
+- [icons-brew](https://github.com/lpnh/icons-brew.yazi) -  Make a hot `theme.toml` for your Yazi icons with your favorite color palette.
+- [ls-colors](https://github.com/Mellbourn/ls-colors.yazi)
+- [onedark](https://github.com/BennyOe/onedark.yazi)
+- [rose-pine](https://github.com/Msouza91/rose-pine.yazi) 
+
+
+<br>
 
 ## Misc
 
