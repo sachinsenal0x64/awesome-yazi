@@ -10,7 +10,8 @@
 - [Yazi Offical Repo](https://github.com/sxyazi/yazi)
 - [Yazi Offical Blog](https://yazi-rs.github.io/blog) 
 - [Yazi Offical Docs](https://yazi-rs.github.io/)
-  
+
+<br>
 
 ## Contents
 
