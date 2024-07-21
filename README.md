@@ -56,6 +56,7 @@
 - [nbpreview](https://github.com/AnirudhG07/nbpreview.yazi) - View your Jupyter notebooks beautifully in the preview.
 - [ouch](https://github.com/ndtoan96/ouch.yazi) -  A Yazi plugin to preview / archives / compress / decompress.
 - [yaziline](https://github.com/llanosrocas/yaziline.yazi) - Simple lualine-like status line for yazi.
+- [yatline](https://github.com/imsi32/yatline.yazi) -  The first Yazi plugin for customizing both header-line and status-line.
   
   
 
