@@ -65,6 +65,7 @@ Just open a pull request. Make sure to first fork the repo, then add plugins, th
 - [bookmarks](https://gitee.com/DreamMaoMao/bookmarks.yazi) - A Yazi plugin that Supports persistent bookmark management.No bookmarks are lost after you close yazi.
 - [bypass](https://github.com/Rolv-Apneseth/bypass.yazi) - Yazi plugin for skipping directories with only a single sub-directory.
 - [command](https://github.com/KKV9/command.yazi) -  A Yazi plugin that displays a command prompt for yazi commands.
+- [chmod](https://github.com/yazi-rs/plugins/tree/main/chmod.yazi) - Execute `chmod` on the selected files to change their mode.
 - [current-size](https://gitee.com/DreamMaoMao/current-size.yazi) - Show current folder size plugin for Yazi.
 - [easyjump](https://gitee.com/DreamMaoMao/easyjump.yazi) - The hardcover version of the keyjump.yazi plugin(only has normal mode).
 - [epub-preview](https://github.com/kirasok/epub-preview.yazi) - Yazi plugin to preview epub files. 
@@ -78,6 +79,7 @@ Just open a pull request. Make sure to first fork the repo, then add plugins, th
 - [mime](https://gitee.com/DreamMaoMao/mime.yazi) - A Yazi plugin that quickly get file mime-type by filename suffix to improved theme rendering speed.
 - [nbpreview](https://github.com/AnirudhG07/nbpreview.yazi) - View your Jupyter notebooks beautifully in the preview.
 - [ouch](https://github.com/ndtoan96/ouch.yazi) -  A Yazi plugin to preview / archives / compress / decompress.
+- [torrent-preview](https://github.com/kirasok/torrent-preview.yazi) -  Yazi plugin to preview bittorrent files. 
 - [yaziline](https://github.com/llanosrocas/yaziline.yazi) - Simple lualine-like status line for yazi.
 - [yatline](https://github.com/imsi32/yatline.yazi) -  The first Yazi plugin for customizing both header-line and status-line.
 - [yamb](https://github.com/h-hg/yamb.yazi) -  Yet another bookmarks plugins. It supports persistence, jumping by a key, jumping by fzf.
