@@ -12,6 +12,7 @@
 
 - [Official](#official)
 - [Communities](#communities)
+- [Contribute](#contribute)
 - [Dotfiles](#dotfiles) - Premade Configs.
 - [Plugins](#plugins)
 - [Themes](#themes)
@@ -36,6 +37,13 @@
 - [Discord](https://discord.gg/RbPtPcVM5X)
 - [Telegram](https://t.me/yazi_rs) - Chinese mainly.
 - [Github Discussions](https://github.com/sxyazi/yazi/discussions)
+
+<br>
+
+## Contribute
+
+Just open a pull request. Make sure to first fork the repo, then add plugins, themes, and resources related to Yazi. Note that when you add something, it should be sorted alphabetically from A to Z.
+
 
 <br>
 
@@ -105,4 +113,5 @@
 - [Yazi, the terminal file manager you didn't know you needed (why I switched from LF)](https://youtu.be/cUwu3mkrz_k)
 - [Yazi Nvim](https://github.com/mikavilpas/yazi.nvim) - A Neovim Plugin for the yazi terminal file manager.
 - [Yazi Vim](https://github.com/chriszarate/yazi.vim) -  A Vim Plugin for the yazi terminal file manager.
+
 
