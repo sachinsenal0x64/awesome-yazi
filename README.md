@@ -79,6 +79,7 @@
 - [mime](https://gitee.com/DreamMaoMao/mime.yazi) - A Yazi plugin that quickly get file mime-type by filename suffix to improved theme rendering speed.
 - [nbpreview](https://github.com/AnirudhG07/nbpreview.yazi) - View your Jupyter notebooks beautifully in the preview.
 - [ouch](https://github.com/ndtoan96/ouch.yazi) -  A Yazi plugin to preview / archives / compress / decompress.
+- [projects](https://github.com/MasouShizuka/projects.yazi) - A yazi plugin that adds the functionality to save and load projects.
 - [torrent-preview](https://github.com/kirasok/torrent-preview.yazi) -  Yazi plugin to preview bittorrent files. 
 - [yaziline](https://github.com/llanosrocas/yaziline.yazi) - Simple lualine-like status line for yazi.
 - [yatline](https://github.com/imsi32/yatline.yazi) -  The first Yazi plugin for customizing both header-line and status-line.
