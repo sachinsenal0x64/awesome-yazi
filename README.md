@@ -84,7 +84,7 @@
 - [torrent-preview](https://github.com/kirasok/torrent-preview.yazi) -  Yazi plugin to preview bittorrent files. 
 - [yaziline](https://github.com/llanosrocas/yaziline.yazi) - Simple lualine-like status line for yazi.
 - [yatline](https://github.com/imsi32/yatline.yazi) -  The first Yazi plugin for customizing both header-line and status-line.
-- [yatline-githead](https://github.com/imsi32/yatline-githead.yazi) -  githead.yazi with yatline.yazi support 
+- [yatline-githead](https://github.com/imsi32/yatline-githead.yazi) -  githead.yazi with yatline.yazi support.
 - [yamb](https://github.com/h-hg/yamb.yazi) -  Yet another bookmarks plugins. It supports persistence, jumping by a key, jumping by fzf.
   
 
@@ -104,7 +104,7 @@
 - [ls-colors](https://github.com/Mellbourn/ls-colors.yazi)
 - [onedark](https://github.com/BennyOe/onedark.yazi)
 - [rose-pine](https://github.com/Msouza91/rose-pine.yazi)
-- [yatline-catppuccin](https://github.com/imsi32/yatline-catppuccin.yazi) -  🛤️ Soothing pastel theme for Yatline 
+- [yatline-catppuccin](https://github.com/imsi32/yatline-catppuccin.yazi) -  🛤️ Soothing pastel theme for Yatline. 
 
 
 <br>
