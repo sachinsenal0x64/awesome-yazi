@@ -104,7 +104,7 @@
 - [ls-colors](https://github.com/Mellbourn/ls-colors.yazi)
 - [onedark](https://github.com/BennyOe/onedark.yazi)
 - [rose-pine](https://github.com/Msouza91/rose-pine.yazi)
-- [yatline-catppuccin](https://github.com/imsi32/yatline-catppuccin.yazi) -  🛤️ Soothing pastel theme for Yatline. 
+- [yatline-catppuccin](https://github.com/imsi32/yatline-catppuccin.yazi) - Soothing pastel theme for Yatline. 
 
 
 <br>
