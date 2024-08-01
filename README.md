@@ -42,7 +42,7 @@
 
 ## Contribute
 
-Just open a pull request. Make sure to first fork the repo, then add plugins, themes, and resources related to Yazi. Note that when you add something, it should be sorted alphabetically from A to Z.
+- Just open a pull request. Make sure to first fork the repo, then add plugins, themes, and resources related to Yazi. Note that when you add something, it should be sorted alphabetically from A to Z.
 
 
 <br>
