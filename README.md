@@ -71,6 +71,7 @@
 - [ouch](https://github.com/ndtoan96/ouch.yazi) -  A Yazi plugin to preview / archives / compress / decompress.
 - [yaziline](https://github.com/llanosrocas/yaziline.yazi) - Simple lualine-like status line for yazi.
 - [yatline](https://github.com/imsi32/yatline.yazi) -  The first Yazi plugin for customizing both header-line and status-line.
+- [yamb](https://github.com/h-hg/yamb.yazi) -  Yet another bookmarks plugins. It supports persistence, jumping by a key, jumping by fzf.
   
 
 <br>
