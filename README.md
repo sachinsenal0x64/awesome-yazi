@@ -102,4 +102,5 @@
 - [What the hell is Yazi ??](https://youtu.be/cUwu3mkrz_k)
 - [Yazi, the terminal file manager you didn't know you needed (why I switched from LF)](https://youtu.be/cUwu3mkrz_k)
 - [Yazi Nvim](https://github.com/mikavilpas/yazi.nvim) - A Neovim Plugin for the yazi terminal file manager.
+- [Yazi Vim](https://github.com/chriszarate/yazi.vim) -  A Vim Plugin for the yazi terminal file manager.
 
