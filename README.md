@@ -70,7 +70,8 @@
 - [easyjump](https://gitee.com/DreamMaoMao/easyjump.yazi) - The hardcover version of the keyjump.yazi plugin(only has normal mode).
 - [epub-preview](https://github.com/kirasok/epub-preview.yazi) - Yazi plugin to preview epub files. 
 - [fg](https://gitee.com/DreamMaoMao/fg.yazi) - Yazi plugin for ripgrep search with fzf file preview.
-- [fish](https://github.com/AnirudhG07/fish.yazi) - Run Fish <°))>< shell as your default yazi shell. 
+- [fish](https://github.com/AnirudhG07/fish.yazi) - Run Fish <°))>< shell as your default yazi shell.
+- [fast-enter](https://github.com/ourongxing/fast-enter.yazi)  - Plugin for Yazi to enter the subfolder faster, or open the file directly.
 - [git-status](https://gitee.com/DreamMaoMao/git-status.yazi) - Git message prompt plugin for Yazi.
 - [githead](https://github.com/llanosrocas/githead.yazi) -  Git status header for yazi inspired by powerlevel10k.
 - [glow](https://github.com/Reledia/glow.yazi) - Preview markdown files using [glow](https://github.com/charmbracelet/glow).
@@ -101,7 +102,8 @@
 - [icons-brew](https://github.com/lpnh/icons-brew.yazi) -  Make a hot `theme.toml` for your Yazi icons with your favorite color palette.
 - [ls-colors](https://github.com/Mellbourn/ls-colors.yazi)
 - [onedark](https://github.com/BennyOe/onedark.yazi)
-- [rose-pine](https://github.com/Msouza91/rose-pine.yazi) 
+- [rose-pine](https://github.com/Msouza91/rose-pine.yazi)
+- [yatline-catppuccin](https://github.com/imsi32/yatline-catppuccin.yazi) -  🛤️ Soothing pastel theme for Yatline 
 
 
 <br>
@@ -116,5 +118,4 @@
 - [Yazi, the terminal file manager you didn't know you needed (why I switched from LF)](https://youtu.be/cUwu3mkrz_k)
 - [Yazi Nvim](https://github.com/mikavilpas/yazi.nvim) - A Neovim Plugin for the yazi terminal file manager.
 - [Yazi Vim](https://github.com/chriszarate/yazi.vim) -  A Vim Plugin for the yazi terminal file manager.
-
 
