@@ -84,6 +84,7 @@
 - [torrent-preview](https://github.com/kirasok/torrent-preview.yazi) -  Yazi plugin to preview bittorrent files. 
 - [yaziline](https://github.com/llanosrocas/yaziline.yazi) - Simple lualine-like status line for yazi.
 - [yatline](https://github.com/imsi32/yatline.yazi) -  The first Yazi plugin for customizing both header-line and status-line.
+- [yatline-githead](https://github.com/imsi32/yatline-githead.yazi) -  githead.yazi with yatline.yazi support 
 - [yamb](https://github.com/h-hg/yamb.yazi) -  Yet another bookmarks plugins. It supports persistence, jumping by a key, jumping by fzf.
   
 
