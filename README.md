@@ -92,6 +92,7 @@
 
 ## Themes
 
+  [blossom](https://github.com/BlossomTheme/yazi)
 - [crystal](https://github.com/sachinsenal0x64/crystal.yazi) - Minimal Comfy Theme.
 - [catppuccin](https://github.com/catppuccin/yazi)
 - [catppuccin-mocha](https://github.com/yazi-rs/flavors/tree/main/catppuccin-mocha.yazi)
